@@ -1,14 +1,15 @@
-# C++ Beginner Projects
+# Beginner C++ Projects
 
-Hi! This repository contains small beginner-friendly C++ projects I'm building while following the Codecademy C++ course.
+This repository contains beginner-friendly C++ programs to practice basic concepts like input/output, variables, conditionals, loops, and functions. These projects are part of a 2-month embedded systems and programming self-study roadmap.
 
-My goal is to become a professional in Embedded Systems.  
-Each project in this repo reflects one key concept from the C++ basics.
+## Projects
+- Hello World
+- Basic Variable Operations
+- Conditional Logic (Age & Name)
+- Basic Calculator
+- Number Guessing Game
 
-Completed so far:
-- Hello World ✅  
-- Variables ✅  
-- Conditionals and Logic ✅  
-- Loops (in progress) 🚧
+More projects will be added as I progress.
 
-More projects coming soon! 🚀
+🌱 Follow my journey!
+
