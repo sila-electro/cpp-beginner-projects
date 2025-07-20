@@ -14,15 +14,20 @@ More projects will be added as I progress.
 🌱 Follow my journey!
 
 ---
+---
 
-## 📅 Progress Report – July 20
+## 📅 Daily Progress – July 20, 2025
 
-- ✅ Completed Codecademy modules on Loops and Vectors
-- ✅ Started the Functions section with practice examples
-- ✅ Watched and followed 8 videos from a C++ beginner playlist on YouTube
-- ✅ Practiced C++ examples using Dev C++
-- ✅ Uploaded files and updated this README
+- ✅ Completed Codecademy modules on **Loops** and **Vectors**.
+- ✅ Started the **Functions** section with hands-on practice in Dev C++.
+- ✅ Watched 8 videos from the [“C++ Full Course” YouTube playlist](https://youtube.com/playlist?list=PLUYQLIy5z5qFhtre18J7hK_d0N7kbhn8g).
+- ✅ Uploaded all projects to GitHub with clean structure.
+- ⚠️ Skipped Chinese study today; to be resumed tomorrow.
+- 🧠 Learned how to upload code files, write README.md, and organize repos for portfolio use.
 
-❗ Chinese study was skipped today and will be rescheduled for tomorrow.
+---
+
+📌 Stay consistent. Every line of code adds up.
+
 
 
