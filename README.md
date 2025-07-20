@@ -13,3 +13,16 @@ More projects will be added as I progress.
 
 🌱 Follow my journey!
 
+---
+
+## 📅 Progress Report – July 20
+
+- ✅ Completed Codecademy modules on Loops and Vectors
+- ✅ Started the Functions section with practice examples
+- ✅ Watched and followed 8 videos from a C++ beginner playlist on YouTube
+- ✅ Practiced C++ examples using Dev C++
+- ✅ Uploaded files and updated this README
+
+❗ Chinese study was skipped today and will be rescheduled for tomorrow.
+
+
