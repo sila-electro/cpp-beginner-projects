@@ -5,7 +5,7 @@ int main() {
     const int SIZE = 5;
     int numbers[SIZE];
 
-    cout << "5 sayı girin:\n";
+    cout << "5 sayi girin:\n";
     for (int i = 0; i < SIZE; i++) {
         cin >> numbers[i];
     }
@@ -22,8 +22,8 @@ int main() {
 
     double average = static_cast<double>(sum) / SIZE;
 
-    cout << "En büyük sayı: " << max << endl;
-    cout << "En küçük sayı: " << min << endl;
+    cout << "En bÃ¼yÃ¼k sayi: " << max << endl;
+    cout << "En kÃ¼Ã§Ã¼k sayi: " << min << endl;
     cout << "Ortalama: " << average << endl;
 
     return 0;
