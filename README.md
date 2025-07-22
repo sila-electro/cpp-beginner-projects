@@ -29,5 +29,24 @@ More projects will be added as I progress.
 
 📌 Stay consistent. Every line of code adds up.
 
+---
+
+##functions_calculator.cpp
+A simple calculator program using C++ functions. It includes basic arithmetic operations like addition, subtraction, and multiplication using separate functions for each.
+
+## Min and Max Finder
+
+This program asks the user to input three integers, then calculates the maximum and minimum values using two custom functions: `findMax()` and `findMin()`.  
+This helped reinforce the use of functions in C++.
+
+### 📘 Grade Calculator
+
+This program takes three exam grades from the user, calculates the weighted average, and displays the corresponding letter grade based on standard grading rules.
+It was created to practice functions and conditionals in C++.
+
+
+
+
+
 
 
