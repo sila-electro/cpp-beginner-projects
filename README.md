@@ -61,6 +61,27 @@ Output to console (cout)
 
 Basic arithmetic
 
+---
+
+Project: Count Positive Numbers
+Concepts Practiced: for loop, if statement, user input, basic logic
+
+💡 What I learned:
+In this small project, I practiced combining loops and conditionals in C++. I asked the user to input 5 numbers and then counted how many of them were positive.
+
+It helped me understand:
+
+How to use a loop to repeat code multiple times
+
+How to take user input and check conditions using if
+
+How to use a counter variable to track results
+
+🧠 My reflection:
+This exercise was helpful because I could see how loops and conditionals work together. I’m getting more comfortable with writing logic in C++. Even though I still need more practice to write code on my own without help, I understand the structure much better now.
+
+
+
 
 
 
