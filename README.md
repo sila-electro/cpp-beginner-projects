@@ -44,6 +44,25 @@ This helped reinforce the use of functions in C++.
 This program takes three exam grades from the user, calculates the weighted average, and displays the corresponding letter grade based on standard grading rules.
 It was created to practice functions and conditionals in C++.
 
+---
+
+
+ Project: Average of Three Numbers
+Description:
+This program takes three numbers from the user and calculates their average using a separate function. It demonstrates how to use functions, parameters, and return values in C++.
+
+Key Concepts Used:
+
+Functions with parameters and return type
+
+User input (cin)
+
+Output to console (cout)
+
+Basic arithmetic
+
+
+
 
 
 
