@@ -80,6 +80,10 @@ How to use a counter variable to track results
 🧠 My reflection:
 This exercise was helpful because I could see how loops and conditionals work together. I’m getting more comfortable with writing logic in C++. Even though I still need more practice to write code on my own without help, I understand the structure much better now.
 
+I also started to learning python.
+
+
+
 
 
 
