@@ -16,7 +16,7 @@ More projects will be added as I progress.
 ---
 ---
 
-## 📅 Daily Progress – July 20, 2025
+## 📅 Daily Progress 
 
 - ✅ Completed Codecademy modules on **Loops** and **Vectors**.
 - ✅ Started the **Functions** section with hands-on practice in Dev C++.
@@ -82,6 +82,9 @@ This exercise was helpful because I could see how loops and conditionals work to
 
 I also started to learning python.
 
+#1 MONTH İMPROVİNG CHALLENGE <3
+
+I watched tutorials and now I'm starting doing more and more practice with c++. 
 
 
 
